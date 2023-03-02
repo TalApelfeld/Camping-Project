@@ -1,0 +1,793 @@
+country,price,rating,size_of_site,total_pitches,caravns,sea,lake,river,mountain,Height,next_city,transport
+Czech Republic,18.0,4.0,3,70.0,Available,,,On site,No,450.0,5,1
+Italy,29.0,4.0,,120.0,,2,,,No,,,0.1
+Italy,33.0,4.0,,,,,0.3,0.03 km,No,,,0.1
+Germany,18.0,4.0,1.5,60.0,Available,,,,,,12,1
+Croatia,24.0,4.0,,153.0,,On,,,,,,
+Italy,57.0,4.0,4,300.0,Available,,,,Yes,1670.0,35,0.1
+Great Britain,19.0,4.0,,,,5,,,No,,,
+Germany,18.0,4.0,11,690.0,,,On,,,,3,0.1
+Germany,23.0,4.0,6.5,72.0,,,,,,,,
+Germany,25.0,4.0,4,90.0,,,3.5,0.5 km,Yes,,15,0.5
+Germany,23.0,4.0,4,250.0,Not available,,2.5,,Yes,600.0,7,1
+Germany,29.0,4.0,2,,Not available,On,,,No,,20,1
+Germany,24.0,4.0,,60.0,Not available,,3.5,,Yes,,1,0.1
+Germany,21.0,4.0,,130.0,,,On,,,,,
+Germany,25.0,4.0,1.5,50.0,Not available,,On,7 km,,,15,
+Italy,28.0,4.0,,51.0,,,,,,,,
+Great Britain,22.0,4.0,,,Not available,,On,,,,,
+Netherlands,25.0,4.0,4,90.0,Not available,,,,No,,6,0.7
+Germany,16.0,4.0,,66.0,Not available,,,,,300.0,8,
+Switzerland,30.0,4.0,1,60.0,Not available,,5,0.5 km,Yes,1200.0,25,0.05
+Germany,17.0,4.0,3,160.0,Not available,,,,Yes,730.0,,0.05
+Norway,31.0,4.0,400,175.0,Not available,,0.1,0.2 km,No,160.0,1.5,0.5
+Germany,13.0,4.0,,30.0,,,0.2,,No,,1.5,1
+Czech Republic,12.0,4.0,1.5,70.0,,,On,,No,,15,0.5
+Italy,35.0,4.0,1,120.0,,On,,,,,5,1
+Italy,35.0,4.0,,162.0,,On,,,No,,1,0.2
+Denmark,28.0,4.0,5,190.0,Available,On,,,No,,30,4
+Netherlands,25.0,4.0,17,168.0,Not available,On,,On site,No,,15,2
+Germany,14.0,4.0,3,160.0,Not available,,,,Yes,450.0,30,0.1
+Norway,31.0,4.0,,80.0,Not available,,,,,,,
+Spain,27.0,4.0,,125.0,,,,,Yes,,,3
+Czech Republic,11.0,4.0,10,250.0,,,On,7 km,,,7,3
+Denmark,25.0,4.0,,234.0,,On,,,,,,
+Germany,19.0,4.0,,150.0,,,1.5,,No,,38,1.2
+Germany,21.0,4.0,,,Not available,,On,,,,17,0.5
+Norway,22.0,4.0,,,,,,On site,Yes,,,
+Spain,27.0,4.0,28,270.0,,On,,25 km,No,,25,2
+France,27.0,4.0,6,182.0,Not available,On,,,No,,1.5,1.5
+Croatia,21.0,4.0,0.2,20.0,,On,,,,5.0,50,0.1
+Italy,57.0,4.0,50,350.0,,On,,,,,1.5,2.5
+France,9.0,4.0,2,100.0,,,,On site,No,,,
+France,23.0,4.0,11,198.0,Not available,,,,,,,
+Germany,22.0,4.0,2.5,600.0,Not available,,On,,No,338.0,3,0.2
+Germany,15.0,4.0,,99.0,Available,,On,,No,,10,
+Germany,28.0,4.0,,110.0,,,,,,,,
+Germany,23.0,4.0,,280.0,,,,,,,,
+Hungary,20.0,4.0,1.5,100.0,,,0.5,,No,,1,0.1
+Greece,23.0,4.0,13,80.0,,On,,,No,,8,0.5
+Germany,19.0,4.0,3.5,98.0,Not available,,On,,No,2.0,10,1.5
+Hungary,34.0,4.0,,0.0,,,On,,No,134.0,2,0.1
+Italy,31.0,4.0,1,19.0,Not available,60,0.5,,,,4,4
+Germany,20.0,4.0,6,70.0,,,On,,Yes,,5,5
+Croatia,21.0,4.0,0.4,23.0,,On,,,,10.0,45,
+Great Britain,43.0,4.0,,,,3,,,No,,,1
+France,11.0,4.0,6,150.0,Not available,,,On site,No,60.0,15,4
+France,11.0,4.0,,75.0,,,,,No,,20,12
+Slovakia,12.0,4.0,4,200.0,,,10,On site,Yes,,3,1.5
+Belgium,22.0,4.0,3,250.0,,,,On site,Yes,,0.7,1
+Germany,29.0,4.0,3,135.0,Not available,,On,,,,3,1
+Norway,35.0,4.0,35,190.0,,On,,,No,,20,18
+Germany,18.0,4.0,3.5,180.0,Not available,,0.1,On site,No,295.0,8,0.2
+Italy,23.0,4.0,,98.0,Not available,100,On,On site,Yes,250.0,5,10
+Czech Republic,16.0,4.0,1.6,150.0,,,On,,Yes,730.0,12,0.5
+Croatia,13.0,4.0,,,,,,,,,,
+Italy,29.0,4.0,2,300.0,Not available,On,,,No,40.0,10,3
+Czech Republic,20.0,4.0,2,100.0,,,,7 km,No,,6,0.2
+Italy,31.0,4.0,,,,1,,,No,,,On
+Italy,22.0,4.0,,50.0,,,On,0.3 km,No,,6,0.5
+Denmark,31.0,4.0,6.4,230.0,,0.4,5,,No,,15,1
+France,21.0,4.0,8.8,486.0,Not available,0.5,8,0.5 km,No,,8,1
+France,25.0,4.0,3.6,163.0,,,,,,,2,
+France,17.0,4.0,1.79,91.0,Not available,,,On site,No,,0.1,0.1
+France,24.0,4.0,5,211.0,,,,,No,,5,0.1
+France,23.0,4.0,1.5,100.0,Not available,,On,,No,420.0,6,0.5
+Netherlands,32.0,4.0,,280.0,,0.05,,,No,,10,0.1
+Netherlands,34.0,4.0,35,639.0,Not available,,,,,,,
+Sweden,25.0,4.0,44,557.0,,On,,On site,No,,10,0.1
+Sweden,27.0,4.0,11,100.0,Not available,,On,,,,20,20
+Switzerland,46.0,4.0,1.2,110.0,Not available,,2,On site,Yes,1473.0,20,0.5
+Germany,18.0,4.0,10,350.0,Not available,,,On site,No,,20,0.5
+Switzerland,41.0,4.0,,110.0,,,On,1.2 km,,1817.0,,1.2
+Germany,14.0,4.0,,48.0,,,,On site,,,,
+Latvia,19.0,4.0,3,50.0,Not available,14,8,On site,No,8.0,21,7
+Norway,27.0,4.0,,,,0.02,,,Yes,,,0.5
+Germany,24.0,4.0,6,80.0,Not available,,On,,No,,,
+Croatia,18.0,4.0,1.3,70.0,Not available,,,,,,,
+Denmark,24.0,4.0,18,150.0,,On,,,No,,13,3
+France,15.0,4.0,0.9,40.0,,,,,,,,
+France,25.0,4.0,5,140.0,,On,,,,,7,2.5
+France,18.0,4.0,1.7,90.0,Not available,18,3,,No,,3,0.3
+France,17.0,4.0,,,Not available,,,On site,Yes,,,0.5
+France,38.0,4.0,35,50.0,Not available,,,1 km,No,500.0,60,3
+Sweden,26.0,4.0,4,218.0,,,On,,No,70.0,3,0.1
+Germany,21.0,4.0,2,50.0,,5,5,2.5 km,No,,2.5,2.5
+Germany,35.0,4.0,,80.0,,,,,Yes,,1.5,0.5
+Austria,9.0,4.0,2,100.0,Not available,,0.2,1.5 km,No,,8,6
+Norway,25.0,4.0,3,50.0,,,On,,No,,14,0.2
+Austria,9.0,4.0,2,100.0,Not available,,0.2,1.5 km,No,,8,6
+Norway,25.0,4.0,3,50.0,,,On,,No,,14,0.2
+Norway,8.0,4.0,,80.0,Not available,0.5,,On site,,,3,2
+Great Britain,19.0,4.0,,,,On,,,No,,,On
+Germany,15.0,4.0,,,,,On,,No,,,
+Germany,23.0,4.0,1.4,180.0,Not available,0.2,,,No,,12,4
+Italy,29.0,4.0,2.5,120.0,Not available,On,,On site,No,,,
+Germany,21.0,4.0,,,,,,,,,,
+Latvia,30.0,4.0,0.3,10.0,Not available,1,,On site,No,,On,0.3
+Sweden,21.0,4.0,,,,,,,,,,
+Germany,18.0,4.0,3,50.0,Available,,,On site,,330.0,15,0.5
+Germany,23.0,4.0,4.5,200.0,,,On,,,,10,1
+Germany,20.0,4.0,25,350.0,Available,,On,6 km,No,100.0,40,On
+Croatia,26.0,4.0,1.5,93.0,Available,On,,,No,,7,1
+Italy,35.0,4.0,3.8,200.0,Not available,On,,,No,,10,0.1
+Italy,16.0,4.0,1,,Not available,On,,,,,,
+Italy,20.0,4.0,15,60.0,Not available,,,1 km,Yes,,1,1
+Italy,24.0,4.0,,50.0,,,On,0.5 km,Yes,200.0,On,On
+Denmark,43.0,4.0,10,421.0,Not available,0.5,,,No,,1.5,1
+Denmark,35.0,4.0,10,258.0,Not available,0.8,,,No,,20,20
+Denmark,30.0,4.0,2.5,270.0,,On,,,Yes,45.0,45,2
+Denmark,20.0,4.0,,,,On,,,No,,,
+Denmark,28.0,4.0,10,158.0,,On,,,No,,14,0.2
+Great Britain,21.0,4.0,,,,On,,,No,,,On
+France,30.0,4.0,13,664.0,,,,,,,,
+France,33.0,4.0,11,160.0,,30,15,3 km,No,,10,3
+France,29.0,4.0,,,,,0.25,,No,,,0.3
+Netherlands,21.0,4.0,10,350.0,Not available,0.3,,,No,,10,0.3
+Switzerland,24.0,4.0,1,40.0,Not available,,,0.5 km,,1075.0,45,0.1
+Spain,18.0,4.0,4,456.0,,,,On site,No,825.0,3,0.9
+Spain,33.0,4.0,40,,,,15,,Yes,900.0,20,0.8
+Switzerland,35.0,4.0,,320.0,,,,On site,No,,20,
+Bosnia-Herzegovina,19.0,4.0,2.5,39.0,Not available,120,30,On site,Yes,223.0,5,6
+Norway,27.0,4.0,5,25.0,,On,,9 km,,,80,8
+Germany,14.0,4.0,,,,,On,On site,No,,,0.1
+Turkey,2.0,4.0,,70.0,,On,,,,,0.1,
+Sweden,23.0,4.0,,60.0,,,On,,No,,10,10
+Germany,15.0,4.0,,90.0,Not available,,,On site,,,3,2
+Germany,29.0,4.0,,,Available,,,On site,,,,0.1
+Czech Republic,15.0,4.0,1,1.0,,,0.1,,,450.0,4,0.3
+Czech Republic,13.0,4.0,5,72.0,,,1.5,,No,,On,0.15
+Italy,34.0,4.0,35,60.0,Not available,On,On,,No,,12,0.7
+Italy,21.0,4.0,0.7,60.0,Not available,,,On site,Yes,620.0,5,0.1
+Denmark,27.0,4.0,75,385.0,Not available,On,,,,,13,1.5
+Denmark,29.0,4.0,,230.0,,On,,,No,,10,On
+Denmark,25.0,4.0,2,120.0,,On,,,,,17,0.5
+Denmark,22.0,4.0,,63.0,,On,,,No,,25,0.5
+Denmark,30.0,4.0,,110.0,,On,,0.5 km,No,,20,On
+Great Britain,30.0,4.0,,,,2,,,No,,,0.5
+France,18.0,4.0,2,50.0,Not available,,,On site,No,,4,
+France,23.0,4.0,5,216.0,,On,,,,,2.5,3.5
+France,32.0,4.0,3.1,100.0,,,30,1.5 km,Yes,,,1.5
+France,18.0,4.0,4.5,115.0,Not available,,4.9,On site,,600.0,300,200
+France,25.0,4.0,6,85.0,Not available,On,,,No,,6,1
+France,31.0,4.0,6,80.0,Not available,0.6,,1 km,,,20,20
+France,17.0,4.0,,,,,,On site,No,,,On
+France,14.0,4.0,,,,,,,Yes,,,On
+France,27.0,4.0,,100.0,,,,,No,,25,1
+France,32.0,4.0,2,83.0,Not available,,,,,,,
+France,16.0,4.0,,,,,,On site,No,,,On
+France,32.0,4.0,2,83.0,Not available,,,,,,,
+France,16.0,4.0,,,,,,On site,No,,,On
+France,18.0,4.0,31,33.0,Not available,,On,On site,,,10,1.5
+France,28.0,4.0,,120.0,,,On,On site,,,5,
+France,20.0,4.0,3,143.0,Available,,2.5,0.5 km,,720.0,30,0.5
+France,22.0,4.0,14,467.0,Not available,,,On site,,,,
+Netherlands,25.0,4.0,10,125.0,,,On,,No,,3,6
+Portugal,23.0,4.0,,,,On,,On site,No,,,
+Slovenia,19.0,4.0,1.5,100.0,Not available,,5,2 km,,510.0,0.1,0.4
+Sweden,40.0,4.0,,460.0,,,,,,,,
+Sweden,21.0,4.0,,100.0,,,On,,No,,0.9,0.9
+Belgium,22.0,4.0,,,,5,,,No,,,
+Norway,26.0,4.0,,,,,On,10 km,Yes,,,
+Hungary,12.0,4.0,3,500.0,,,On,2 km,No,,50,1
+Hungary,27.0,4.0,5,100.0,,,On,12 km,No,,12,1
+Turkey,10.0,4.0,4,50.0,,,,,No,,1,1
+Greece,29.0,4.0,,120.0,,On,,,No,,,0.1
+Montenegro,12.0,4.0,2,20.0,,150,On,On site,,,0.5,0.1
+Switzerland,23.0,4.0,,,,,,,Yes,,,
+Italy,28.0,4.0,15,23.0,,,,,,,,
+Albania,15.0,4.0,,100.0,,,,,,,,
+Portugal,15.0,4.0,,14.0,Not available,20,,,,200.0,6,1
+Albania,10.0,4.0,0.5,10.0,Available,,On,,Yes,700.0,2,0.5
+Germany,17.0,4.0,1,20.0,,,,On site,Yes,160.0,5,7
+Greece,20.0,4.0,1.5,75.0,,On,,,,,26,4
+Sweden,27.0,4.0,9,52.0,Available,,On,,,,9,9
+Netherlands,19.0,4.0,2,20.0,Available,,,,,,,
+Albania,5.0,4.0,0.5,,,152,On,30 km,No,600.0,15,On
+Poland,15.0,4.0,,70.0,,,,On site,No,,8,
+Montenegro,15.0,4.0,,25.0,Not available,,,,Yes,,15,
+Germany,22.0,4.0,,45.0,Available,0.45,,,,,6,0.5
+Italy,30.0,4.0,,245.0,,On,,,,,28,On
+Italy,35.0,4.0,0.6,42.0,,,On,,,195.0,7,0.5
+Italy,16.0,4.0,,,Available,On,,,,,20,1
+Italy,25.0,4.0,2,75.0,Not available,50,,20 km,Yes,730.0,40,0.5
+Italy,28.0,4.0,1.3,104.0,,,,1 km,Yes,1020.0,7,1
+Italy,22.0,4.0,7,155.0,Not available,On,,,No,,13,6
+Italy,22.0,4.0,3.5,132.0,Not available,25,,,No,200.0,25,1.4
+Italy,22.0,4.0,,,,,0.05,On site,No,,,On
+Denmark,26.0,4.0,5.3,320.0,,1.5,,,,3.0,,0.5
+Denmark,25.0,4.0,3.4,176.0,,,,,,,,
+Denmark,30.0,4.0,"41,000",203.0,Not available,0.2,,,No,,25,1.5
+Denmark,23.0,4.0,,90.0,,On,,,No,,,0.8
+Finland,29.0,4.0,7,30.0,,,On,,Yes,130.0,50,2
+Great Britain,27.0,4.0,9,90.0,,,,,,,,
+Great Britain,28.0,4.0,25,220.0,,,,On site,No,,10,1
+France,17.0,4.0,,,,,,,No,,,0.5
+France,16.0,4.0,,31.0,,,,,No,,2,0.3
+France,20.0,4.0,2.7,170.0,,0.1,6,,No,5.0,15,6
+France,21.0,4.0,5,140.0,Available,,0.3,4 km,Yes,650.0,8,1
+France,21.0,4.0,,,,,5,On site,No,,,
+France,13.0,4.0,,60.0,,,,On site,No,,10,10
+France,14.0,4.0,,105.0,,,,,No,,4,11
+France,23.0,4.0,9,165.0,,,On,,No,,35,0.3
+France,18.0,4.0,5,99.0,Not available,,On,,No,,3,3
+France,16.0,4.0,,200.0,Not available,,On,5 km,Yes,735.0,5,1
+France,20.0,4.0,3.5,45.0,Not available,,,,,,17,2.2
+France,27.0,4.0,60,163.0,,,,On site,Yes,,,
+France,19.0,4.0,3,83.0,,,,,,,,
+France,25.0,4.0,3,90.0,Not available,20,20,0.2 km,,,20,4
+France,39.0,4.0,6,217.0,,,,,,,,
+France,24.0,4.0,1.2,44.0,Not available,,5,On site,Yes,920.0,12,0.2
+Netherlands,23.0,4.0,12,415.0,,5,5,12 km,No,,5,0.5
+Netherlands,21.0,4.0,8,90.0,,,On,,No,,20,3
+Netherlands,17.0,4.0,1,20.0,Not available,30,On,2 km,No,,1,0.5
+Netherlands,22.0,4.0,12,200.0,Not available,,,,,,,
+Netherlands,28.0,4.0,1,60.0,Not available,,,,No,141.0,10,0.3
+Netherlands,23.0,4.0,,,Not available,,,,No,,7,1.5
+Netherlands,15.0,4.0,1.5,40.0,,,,,No,,9,4
+Portugal,19.0,4.0,,,,1,,,Yes,,,1
+Portugal,19.0,4.0,,,,1,,,Yes,,,1
+Sweden,25.0,4.0,,350.0,,8,,,No,,1.5,1.5
+Sweden,21.0,4.0,10,32.0,,,,On site,No,,150,0.5
+Sweden,35.0,4.0,,450.0,,0.2,20,,No,,8,6
+Sweden,18.0,4.0,2,52.0,,,On,,No,,26,4
+Sweden,18.0,4.0,,81.0,,,On,,No,,25,1
+Switzerland,26.0,4.0,1.2,100.0,Not available,,,,No,350.0,5,1
+Switzerland,26.0,4.0,,,,,,,,,,
+Switzerland,35.0,4.0,0.15,15.0,,,,0.05 km,,420.0,,0.1
+Switzerland,27.0,4.0,1.5,90.0,Not available,,,,,,,
+Germany,19.0,4.0,,65.0,Not available,,,,,,,
+Germany,18.0,4.0,1,50.0,Not available,,,On site,No,,4,1
+Germany,17.0,4.0,,80.0,Not available,,1,On site,,400.0,2,On
+Germany,17.0,4.0,2.5,120.0,Not available,,,On site,,180.0,18,0.4
+Germany,13.0,4.0,3,150.0,,,On,,,,8,1
+Austria,28.0,4.0,3,92.0,Not available,,On,On site,No,,8,
+Norway,30.0,4.0,,75.0,,,,On site,Yes,,28,3
+Hungary,27.0,4.0,,8.0,Not available,,23,23 km,No,,23,4.5
+Hungary,20.0,4.0,6,200.0,,,,On site,Yes,,10,1.5
+Spain,22.0,4.0,2.5,170.0,,0.2,3,,No,1.0,8,0.2
+Estonia,20.0,4.0,,50.0,,,3,4 km,No,,2,3
+Switzerland,34.0,4.0,,150.0,,,,,,,,
+Serbia,22.0,4.0,,,,,,,,,,
+Germany,27.0,4.0,,34.0,Not available,,0.5,On site,No,,0.5,0.5
+France,18.0,4.0,14,63.0,,On,,,,,12,1
+Italy,29.0,4.0,,165.0,,,,On site,Yes,,,0.5
+Netherlands,24.0,4.0,7,85.0,Not available,7,On,,,,8,0.5
+Spain,31.0,4.0,14,200.0,,100,30,,No,,50,4
+Germany,20.0,4.0,,25.0,,,,,Yes,,,On
+Croatia,16.0,4.0,,,,On,,,,,,
+Belgium,20.0,4.0,1,15.0,Available,,,,,,,
+Croatia,24.0,4.0,3,14.0,Available,30,,,,600.0,10,10
+Croatia,30.0,4.0,,50.0,,,,,,,,
+Bosnia-Herzegovina,10.0,4.0,,,,,4,0.1 km,,,,0.2
+Czech Republic,16.0,4.0,1.7,35.0,Not available,,0.3,,Yes,640.0,8,8
+Czech Republic,20.0,4.0,,30.0,Not available,,30,On site,No,470.0,6,1
+Italy,18.0,4.0,,30.0,,0.1,,,,,2,0.3
+Hungary,12.0,4.0,8,100.0,,,On,,No,,45,1
+Italy,15.0,4.0,,412.0,Not available,,,,,,,
+Germany,16.0,4.0,,,,,On,1 km,No,,,1
+Germany,25.0,4.0,8,46.0,Not available,,,On site,Yes,190.0,8,On
+Croatia,19.0,4.0,,40.0,Available,On,,,No,,6,0.1
+Czech Republic,14.0,4.0,,,,,,,No,,,
+Czech Republic,13.0,4.0,2.5,100.0,,,,,No,,1.5,2.5
+Italy,44.0,4.0,1,50.0,Not available,On,,,,,9,0.15
+Italy,39.0,4.0,7,300.0,Not available,On,,,,,7,7
+Italy,24.0,4.0,,,,0.2,,,No,,5,On
+Italy,24.0,4.0,40,,,On,,,,,,0.1
+Italy,24.0,4.0,"36,000",157.0,Not available,On,,,No,,1.5,0.2
+Italy,30.0,4.0,2.3,120.0,Not available,,On,,,,2,2
+Italy,30.0,4.0,5,229.0,,On,,,,,,15
+Italy,31.0,4.0,1.5,40.0,,24,,7 km,Yes,,25,0.5
+Italy,28.0,4.0,,,,,On,,Yes,,,On
+Italy,47.0,4.0,6,350.0,,On,,,,,2,2
+Italy,33.0,4.0,5,100.0,Available,40,,6 km,,400.0,12,12
+Italy,18.0,4.0,5.5,113.0,,9,,,,,,0.3
+Italy,24.0,4.0,,140.0,,,On,On site,Yes,,25,1
+Italy,27.0,4.0,10,100.0,Not available,50,5,5 km,Yes,500.0,1,1
+Denmark,35.0,4.0,3,150.0,Not available,,,,,,,
+Denmark,18.0,4.0,3.5,200.0,Not available,1.5,,1 km,No,,30,On
+Denmark,20.0,4.0,2,85.0,,0.5,,,No,,20,8
+Denmark,24.0,4.0,4.2,192.0,,,,,No,,11,4
+Denmark,24.0,4.0,6,125.0,,On,,,,,25,0.2
+Denmark,23.0,4.0,3.5,160.0,,1,2,,,7.0,1.5,0.2
+Great Britain,23.0,4.0,12,45.0,,40,2,2 km,No,,12,
+Great Britain,21.0,4.0,,,,On,,,No,,,On
+Great Britain,23.0,4.0,,,,8,,,No,,,1
+Great Britain,18.0,4.0,,,,0.5,,,No,,,
+Great Britain,30.0,4.0,,108.0,,On,,,No,,3,1
+Great Britain,35.0,4.0,,50.0,,3,,1 km,,,,2
+Great Britain,20.0,4.0,,,,,,,No,,,On
+France,15.0,4.0,,,,,,On site,Yes,,,
+France,25.0,4.0,26,88.0,Not available,,,,,,,
+France,15.0,4.0,2.5,63.0,,25,25,10 km,No,,8,5
+France,36.0,4.0,6,228.0,,,,,,,,
+France,20.0,4.0,3,75.0,,,3,2 km,Yes,,15,15
+France,15.0,4.0,3,50.0,Available,,3,,No,214.0,6,5
+France,24.0,4.0,1.9,54.0,Available,2.5,,,,,1.5,2
+France,18.0,4.0,,156.0,,,On,0.2 km,No,,,
+France,15.0,4.0,,25.0,,15,,4 km,No,,7,
+France,19.0,4.0,2,90.0,Not available,,On,0.6 km,Yes,980.0,18,0.6
+France,30.0,4.0,5,180.0,,,,On site,,,1,1
+France,25.0,4.0,1,114.0,,25,15,On site,No,,17,
+France,25.0,4.0,1,114.0,,25,15,On site,No,,17,
+France,32.0,4.0,6,192.0,Available,,,,,,,
+France,11.0,4.0,,160.0,,,,,,,,
+France,19.0,4.0,1.2,43.0,,,,,,,,
+France,15.0,4.0,,227.0,,1,,,Yes,,30,1
+France,24.0,4.0,,100.0,,65,18,0.5 km,Yes,,10,3.5
+France,26.0,4.0,2,90.0,,50,,On site,Yes,600.0,15,1
+France,12.0,4.0,,,,,,On site,No,,,On
+France,15.0,4.0,,,,,,On site,No,,,1
+France,16.0,4.0,,,,,0.3,,Yes,,,1
+France,26.0,4.0,4,160.0,,,,On site,Yes,,5,1
+France,26.0,4.0,,100.0,,,,,,,,
+France,20.0,4.0,2.5,88.0,,,,,,,,
+France,28.0,4.0,,,,,,,No,,,
+France,17.0,4.0,4.5,200.0,Available,,,,,,,
+France,24.0,4.0,2.1,86.0,Not available,,,,No,,,2
+France,9.0,4.0,,75.0,Not available,,,,,,,
+France,18.0,4.0,,65.0,,,,,Yes,,,
+France,18.0,4.0,,,Not available,,,On site,Yes,,,
+France,23.0,4.0,5.5,40.0,Not available,2,,,No,100.0,1,0.4
+France,34.0,4.0,1.5,50.0,,,,,,,,
+France,49.0,4.0,5.5,238.0,Not available,3,,,,,9,0.01
+France,17.0,4.0,,10.0,,0.4,,,,,3,0.1
+France,27.0,4.0,4,123.0,,,,,,,25,On
+France,30.0,4.0,,,,0.2,,,No,,,On
+France,15.0,4.0,4,100.0,,69,4,17 km,,590.0,45,
+France,14.0,4.0,,47.0,,,12,,Yes,,17,0.6
+France,26.0,4.0,2.5,97.0,Not available,,,1 km,,450.0,70,1
+France,18.0,4.0,,25.0,,220,25,On site,Yes,,0.6,0.6
+France,41.0,4.0,6.5,176.0,Not available,,,On site,No,300.0,20,0.5
+France,21.0,4.0,2.2,69.0,Not available,,,,No,,10,1
+Netherlands,31.0,4.0,12,185.0,Not available,,,1 km,,,6,On
+Netherlands,24.0,4.0,1,20.0,Not available,4,4,,No,,6,3
+Netherlands,22.0,4.0,30,500.0,,,On,1 km,No,,15,0.5
+Netherlands,26.0,4.0,11,280.0,Not available,,,,No,,9,0.5
+Netherlands,20.0,4.0,,,,,,,No,,,2.5
+Netherlands,23.0,4.0,30,750.0,,,On,,,,5,3
+Netherlands,18.0,4.0,6,130.0,Available,,10,1 km,No,,6,2
+Netherlands,20.0,4.0,2,40.0,,,,On site,,,10,0.5
+Netherlands,30.0,4.0,7,115.0,Not available,,On,0.5 km,,,6,3
+Netherlands,22.0,4.0,7,200.0,Not available,,7,,,,3,3
+Portugal,16.0,4.0,1.2,400.0,Not available,120,15,0.1 km,No,450.0,On,0.1
+Portugal,20.0,4.0,,25.0,,18,,4 km,Yes,,35,5
+Slovakia,16.0,4.0,2,45.0,,,,4 km,Yes,,4,2
+Sweden,25.0,4.0,,40.0,,0.3,,,Yes,,45,0.2
+Sweden,20.0,4.0,,100.0,,,On,,Yes,,45,1
+Sweden,21.0,4.0,11,100.0,,,On,On site,No,,35,1
+Sweden,31.0,4.0,,200.0,,On,,,,,15,15
+Switzerland,16.0,4.0,,80.0,,,,,,,,
+Belgium,24.0,4.0,,224.0,Not available,,,0.1 km,No,,,On
+Belgium,32.0,4.0,5.5,129.0,Not available,,,On site,No,,7,1
+Belgium,18.0,4.0,2,84.0,Not available,,9,On site,Yes,,0.04,1
+Belgium,18.0,4.0,,,,,,,No,,,
+Belgium,30.0,4.0,7,320.0,,,,8 km,Yes,,8,0.5
+Belgium,14.0,4.0,,180.0,,,On,On site,No,,12,
+Belgium,17.0,4.0,,36.0,Not available,,,,No,,,
+Germany,12.0,4.0,,,,,0.08,0.5 km,No,,,3
+Germany,18.0,4.0,,,,,On,4 km,No,,8,0.1
+Hungary,30.0,4.0,0.9,70.0,,,1.5,,,,18.2,1.5
+Hungary,10.0,4.0,,25.0,,,2,On site,No,,6,2.5
+Greece,28.0,4.0,2,170.0,,On,,On site,,,100,On
+Greece,25.0,4.0,,,,,,,,,,
+Estonia,10.0,4.0,3,90.0,,,0.5,,No,,5,1.7
+Spain,19.0,4.0,2,220.0,,,25,12 km,No,,80,0.5
+Spain,30.0,4.0,2.5,30.0,Not available,,,2 km,Yes,650.0,38,1
+Spain,46.0,4.0,,,,1,,6 km,No,,40,0.5
+Spain,46.0,4.0,,,,1,,6 km,No,,40,0.5
+Spain,24.0,4.0,,,,,,,Yes,,3,3
+Spain,29.0,4.0,,300.0,Not available,,,2 km,Yes,1100.0,30,0.5
+Spain,20.0,4.0,3.5,261.0,Not available,1,,4 km,No,,20,0.1
+Spain,28.0,4.0,60,145.0,,0.1,,,,,20,0.01
+Spain,27.0,4.0,3,300.0,Not available,,1,On site,No,350.0,65,1
+Spain,25.0,4.0,2.8,120.0,,1,,On site,No,35.0,8,0.8
+Spain,29.0,4.0,0.8,50.0,,0.25,,,No,30.0,27,0.7
+Netherlands,25.0,4.0,9,235.0,,1,,,No,,8,1
+Great Britain,50.0,4.0,10,150.0,,3,,,No,,1,0.5
+Italy,23.0,4.0,12,155.0,,,20,,Yes,,30,0.1
+Italy,33.0,4.0,1,71.0,Not available,On,,,,,5,5
+Germany,16.0,4.0,12,50.0,,,,On site,Yes,,22,9
+Germany,22.0,4.0,,,,,,,Yes,,,
+Spain,22.0,4.0,,,,,,On site,Yes,,12,1
+Italy,28.0,4.0,,60.0,Not available,,,,,,,
+Great Britain,17.0,4.0,,,,,,,Yes,,,
+Germany,23.0,4.0,1.5,40.0,Not available,30,On,,No,,5,On
+Netherlands,18.0,4.0,,,,,,,No,,,2
+France,11.0,4.0,1.2,50.0,,20,,On site,,,4,4
+Ukraine,20.0,4.0,12,100.0,,,On,,No,,12,1
+Portugal,13.0,4.0,3,400.0,Available,100,15,35 km,,,42,On
+Croatia,24.0,4.0,0.5,15.0,,3,,40 km,Yes,300.0,15,3
+Germany,20.0,4.0,,9.0,Not available,,2.5,,No,100.0,8,0.3
+Sweden,26.0,4.0,10,115.0,Not available,2.5,,,No,50.0,62,2.2
+Great Britain,14.0,4.0,,,,On,,,No,,,
+Portugal,7.0,4.0,,,,,,,Yes,,,On
+Spain,33.0,4.0,,,,On,,,,10.0,25,
+Russia,28.0,4.0,,40.0,Not available,,0.3,,No,,,0.35
+Belarus,10.0,4.0,2,60.0,Available,,On,,,,,
+Romania,10.0,4.0,5,50.0,Available,,,,,,,
+Germany,26.0,4.0,,80.0,,,4,On site,,530.0,9,On
+Slovakia,21.0,4.0,0.5,12.0,Not available,,27,1.5 km,Yes,850.0,10,0.1
+Switzerland,45.0,4.0,,,Not available,,,On site,No,650.0,10,1
+Austria,20.0,4.0,,88.0,,,,,,,,1
+Austria,30.0,4.0,,370.0,Not available,,0.5,,Yes,800.0,10,1
+Russia,20.0,4.0,,30.0,,,,,,,,
+Great Britain,20.0,4.0,0.3,50.0,Not available,On,,,No,,10,0.3
+Germany,17.0,4.0,1,5.0,Available,1,,,No,3.0,10,0.15
+Poland,10.0,4.0,35,60.0,,,,1 km,,120.0,4,2
+Bulgaria,20.0,4.0,"1,400",,,On,,,,,1,1
+Russia,20.0,4.0,0.4,35.0,,,,,,,,
+Italy,34.0,4.0,10,15.0,Not available,,,5 km,,350.0,30,
+Germany,37.0,4.0,3,160.0,Not available,3,,,No,,5,0.5
+Czech Republic,16.0,4.0,2.5,40.0,,,12,0.5 km,No,,,0.5
+Czech Republic,10.0,4.0,,80.0,,,,,No,,,
+Czech Republic,21.0,4.0,,20.0,,,,,No,,,0.1
+Italy,34.0,4.0,,,,0.3,,,No,,,0.8
+Italy,42.0,4.0,,,,,,,,,,
+Italy,29.0,4.0,12,450.0,Not available,On,5,,No,1.0,6,1
+Italy,25.0,4.0,,185.0,,,,,,,,
+Italy,27.0,4.0,0.1,100.0,,,On,1 km,,,13,0.5
+Italy,18.0,4.0,,21.0,,,,,Yes,1900.0,,0.1
+Italy,34.0,4.0,2,120.0,,1.5,,3 km,,,1,1
+Italy,23.0,4.0,"43,000",227.0,,,2.5,0.5 km,Yes,900.0,15,On
+Italy,21.0,4.0,3,32.0,,,,,Yes,613.0,,0.2
+Italy,33.0,4.0,,,,,On,,No,,,On
+Italy,26.0,4.0,40,250.0,Available,,,On site,Yes,,,0.5
+Italy,15.0,4.0,,,,,0.2,,No,,,0.1
+Italy,26.0,4.0,40,250.0,Available,,,On site,Yes,,,0.5
+Italy,15.0,4.0,,,,,0.2,,No,,,0.1
+Italy,28.0,4.0,6.5,170.0,,On,,,,,10,On
+Italy,36.0,4.0,,,,0.03,,,No,,,On
+Italy,23.0,4.0,3,80.0,,,5,0.5 km,Yes,,30,2
+Italy,22.0,4.0,,,,165,10,,Yes,,,
+Italy,15.0,4.0,,300.0,,0.5,,,,,,0.3
+Italy,23.0,4.0,,50.0,,,,,Yes,,2.5,2.5
+Italy,22.0,4.0,3,224.0,Not available,On,,,No,,1.5,0.2
+Italy,30.0,4.0,18,111.0,Not available,On,,,,,5,
+Denmark,34.0,4.0,2.4,100.0,Not available,0.2,0.1,,No,,22,0.2
+Denmark,24.0,4.0,,280.0,,1,,,No,,30,On
+Denmark,17.0,4.0,2.5,100.0,Not available,On,,On site,Yes,,7,7
+Denmark,24.0,4.0,23,150.0,,,0.9,,No,,25,1.5
+Denmark,33.0,4.0,5,165.0,Available,1.8,On,,No,,6,1
+Denmark,29.0,4.0,7,235.0,Available,On,14,5 km,No,,14,3
+Denmark,22.0,4.0,,100.0,,1,,1 km,No,,2,0.1
+Denmark,21.0,4.0,1,40.0,,,,On site,No,,9.5,0.1
+Denmark,19.0,4.0,,48.0,,,,1 km,No,,14,0.2
+Denmark,25.0,4.0,2,45.0,,,,,,,,
+Denmark,23.0,4.0,,,,On,,,No,,,
+Denmark,23.0,4.0,,,,4,,,No,,,
+Denmark,28.0,4.0,,,,0.5,,,No,,,
+Denmark,26.0,4.0,,200.0,,On,,,No,,8,0.2
+Denmark,20.0,4.0,,40.0,,On,0.5,,No,,18,1
+Denmark,26.0,4.0,,260.0,,On,,,No,,25,0.5
+Denmark,18.0,4.0,,120.0,,4,,,,,15,On
+Denmark,52.0,4.0,,175.0,Not available,0.8,On,1 km,No,,15,0.2
+Denmark,22.0,4.0,,145.0,,1,,,No,,25,0.1
+Denmark,22.0,4.0,,145.0,,1,,,No,,25,0.1
+Denmark,30.0,4.0,19,140.0,Available,0.4,1,,No,1.0,11,0.1
+Denmark,31.0,4.0,6.5,150.0,Not available,,,,,,,
+Denmark,29.0,4.0,19,500.0,Available,3,,On site,,,7,0.5
+Finland,18.0,4.0,,76.0,,On,,,No,,1.5,
+Finland,27.0,4.0,5,70.0,,On,,4 km,No,,50,3
+Finland,21.0,4.0,,25.0,,,On,,No,,1,0.6
+Finland,20.0,4.0,4,60.0,,,0.5,0.5 km,Yes,,170,On
+Great Britain,24.0,4.0,,83.0,,,,On site,No,,,
+Great Britain,18.0,4.0,2,27.0,,,,,No,,5,1
+Great Britain,17.0,4.0,,,,15,,On site,No,,,
+Great Britain,22.0,4.0,,,,,1,On site,No,,,On
+Great Britain,21.0,4.0,13,140.0,,8,12,5 km,,,8,0.5
+Great Britain,17.0,4.0,,,,,On,On site,No,,,On
+Great Britain,21.0,4.0,,55.0,,,,,No,,8,1
+Great Britain,24.0,4.0,,,,1,,,No,,,On
+Great Britain,17.0,4.0,,,,On,,On site,No,,,
+Great Britain,20.0,4.0,,,,,,,No,,,On
+Great Britain,22.0,4.0,,,,0.5,,,No,,,On
+Great Britain,17.0,4.0,141,500.0,,,,,No,,7,0.2
+Great Britain,26.0,4.0,,150.0,,,,,No,,5,2
+Great Britain,18.0,4.0,,,,,On,,No,,,
+Great Britain,22.0,4.0,5,56.0,,7,,On site,No,,3,3
+Great Britain,25.0,4.0,,,,14,,On site,No,,,
+France,12.0,4.0,,10.0,Not available,,,,Yes,,,0.5
+France,14.0,4.0,,,,,,,No,,,
+France,15.0,4.0,,,,,,On site,No,,,On
+France,12.0,4.0,2,42.0,,,10,1 km,Yes,,,
+France,15.0,4.0,,,,,,On site,No,,,On
+France,12.0,4.0,2,42.0,,,10,1 km,Yes,,,
+France,19.0,4.0,3.5,83.0,,,,On site,No,,10,
+France,15.0,4.0,,,,,,,,,,
+France,26.0,4.0,4,122.0,Not available,,,3 km,No,,3,1
+France,21.0,4.0,4,,,,,On site,,,8,
+France,13.0,4.0,2,64.0,Not available,,,On site,No,,0.9,1
+France,22.0,4.0,3,70.0,,,,,No,,15,1
+France,20.0,4.0,2,49.0,,,,,No,,20,3
+France,22.0,4.0,3.5,70.0,,,,,No,,45,3
+France,44.0,4.0,4,170.0,Not available,3,40,,,,25,2
+France,11.0,4.0,,,,,,,No,,,On
+France,15.0,4.0,,,,,5,0.05 km,,,,On
+France,24.0,4.0,,,,7,,,,,,
+France,25.0,4.0,7,360.0,Not available,0.8,4,,No,,30,0.2
+France,14.0,4.0,,,,,,On site,,,,0.4
+France,14.0,4.0,,,,,,On site,,,,0.4
+France,29.0,4.0,3,147.0,Not available,10,5,1 km,No,,12,12
+France,14.0,4.0,,170.0,,100,,1.5 km,Yes,,,
+France,21.0,4.0,,99.0,,,,On site,Yes,,30,0.8
+France,25.0,4.0,43,60.0,Not available,,,10 km,No,,25,25
+France,19.0,4.0,5.6,80.0,Not available,,5,5 km,No,,17,
+France,12.0,4.0,2,71.0,,,6,,Yes,,,
+France,15.0,4.0,3,95.0,,,,On site,Yes,,,
+France,9.0,4.0,,,,,On,,No,,,On
+France,19.0,4.0,1.3,50.0,Not available,,8,,Yes,700.0,5,1
+France,24.0,4.0,5,90.0,Not available,,10,,Yes,,13,
+France,28.0,4.0,5,219.0,,,On,,Yes,,40,40
+France,14.0,4.0,,,,,,,No,,,
+France,22.0,4.0,4,140.0,Not available,,,,,,,
+France,18.0,4.0,,84.0,,,,,No,,15,
+France,21.0,4.0,0.8,52.0,Available,,,On site,No,,18,2
+France,11.0,4.0,,33.0,,,,On site,No,,17,3
+France,14.0,4.0,4,73.0,Not available,,,On site,,,1,
+France,12.0,4.0,,,,,On,,,,,
+France,25.0,4.0,9,25.0,Not available,,On,5 km,Yes,450.0,30,15
+France,16.0,4.0,2,80.0,Not available,,,On site,No,,15,2
+France,19.0,4.0,2.5,73.0,,,On,On site,No,,20,On
+France,16.0,4.0,3,80.0,,,On,On site,No,,4,4
+France,27.0,4.0,9,92.0,Not available,12,8,5 km,,,4,4
+France,19.0,4.0,1,46.0,,1.2,,,No,20.0,4,0.1
+France,19.0,4.0,2,79.0,Not available,0.3,,,No,,7,7
+France,20.0,4.0,4.65,100.0,,6,,,,,,1.5
+France,24.0,4.0,1.5,97.0,Not available,0.2,,,,,12,12
+France,24.0,4.0,11,198.0,Available,3,,,No,120.0,3,On
+France,18.0,4.0,10,153.0,,,,900 km,,,4,4
+France,15.0,4.0,2.5,65.0,Not available,,,On site,No,,6,On
+France,15.0,4.0,,76.0,,,On,,,,7,
+France,14.0,4.0,,,,,,On site,No,,,0.5
+France,17.0,4.0,,,,,,On site,No,,,
+France,17.0,4.0,25,30.0,,,On,,No,,10,
+France,22.0,4.0,5,114.0,Available,9,15,15 km,No,25.0,50,1.5
+France,18.0,4.0,,,,,,On site,No,,,On
+France,18.0,4.0,,,,,,On site,No,,,On
+France,11.0,4.0,3,6.0,,,,,,,,
+France,14.0,4.0,,,,,,On site,Yes,,,
+France,12.0,4.0,,70.0,,,,,No,,1.5,1.5
+France,8.0,4.0,,,,,,On site,Yes,,,0.5
+France,12.0,4.0,,,Not available,,,On site,No,,,On
+France,20.0,4.0,,,,,,,No,,,On
+France,17.0,4.0,,,,,On,,Yes,,,0.6
+France,15.0,4.0,,,,,On,,Yes,,,0.5
+France,10.0,4.0,,30.0,,,,,No,,20,
+France,16.0,4.0,2.5,60.0,Not available,25,15,4 km,No,,4,4
+France,18.0,4.0,5.3,110.0,Not available,,,On site,No,72.0,7,6
+France,21.0,4.0,2,90.0,,,,On site,Yes,,25,25
+France,21.0,4.0,2,90.0,,,,On site,Yes,,25,25
+France,23.0,4.0,2.5,100.0,,,,On site,No,,12,32
+France,14.0,4.0,,30.0,Not available,60,,5 km,Yes,180.0,15,5
+France,27.0,4.0,1.2,12.0,Not available,,,,,,,
+France,15.0,4.0,,25.0,Not available,,,,,,,
+France,14.0,4.0,,,,,,,,,,
+France,20.0,4.0,"1,300",57.0,Not available,14,4,,No,,15,2
+France,26.0,4.0,1,85.0,,On,,,No,,1.5,0.2
+France,17.0,4.0,4,34.0,,,,On site,,,10,25
+France,14.0,4.0,,40.0,,,5,5 km,,,17,17
+France,15.0,4.0,,,,,On,,No,,,1
+France,15.0,4.0,,,,,On,,No,,,
+France,17.0,4.0,,100.0,Not available,,,On site,No,,,
+France,9.0,4.0,,,Not available,,,,Yes,,,On
+France,9.0,4.0,,,,,,,Yes,,,1.5
+France,12.0,4.0,,60.0,,,,2 km,No,,30,2
+France,20.0,4.0,23,75.0,,,On,,Yes,,15,On
+France,12.0,4.0,1,40.0,,,,,Yes,,5,1
+France,10.0,4.0,,,,,8,,Yes,,,
+France,12.0,4.0,,,,,,On site,Yes,,,On
+France,28.0,4.0,2.8,50.0,Not available,,,1 km,,,12,0.5
+France,12.0,4.0,3,33.0,,,,,,,,
+France,21.0,4.0,3,80.0,,100,40,On site,,400.0,9,
+France,20.0,4.0,8,205.0,Not available,,,,,,20,30
+France,29.0,4.0,4,97.0,Not available,,On,10 km,No,,5,5
+France,17.0,4.0,157,100.0,Not available,90,,On site,Yes,550.0,34,7
+France,24.0,4.0,10,106.0,Available,200,0.3,0.3 km,,186.0,15,15
+France,15.0,4.0,,,,,On,,No,,,On
+France,23.0,4.0,5,65.0,Not available,,On,,No,,12,2
+France,11.0,4.0,1,76.0,,,,0.5 km,Yes,,55,0.5
+France,17.0,4.0,2.5,54.0,Not available,200,12,On site,Yes,1200.0,50,0.2
+France,13.0,4.0,2,125.0,,,,,Yes,,1.5,1.5
+France,18.0,4.0,1.5,72.0,,,,0.1 km,Yes,,35,0.1
+France,16.0,4.0,1.2,40.0,,,,On site,Yes,,10,
+France,15.0,4.0,2,71.0,,,4,On site,Yes,,4,1
+France,16.0,4.0,6,127.0,Not available,,,,No,,,
+France,8.0,4.0,1.09,28.0,Not available,,6,2 km,No,,16,1
+France,26.0,4.0,10,177.0,Not available,,,On site,Yes,,20,1
+France,29.0,4.0,10,154.0,,174,10,4 km,No,80.0,25,1
+France,13.0,4.0,1,6.0,,65,On,On site,No,,,0.9
+France,24.0,4.0,10,225.0,,1.5,,,No,,8,12
+France,22.0,4.0,,30.0,,0.1,,,No,,,
+France,37.0,4.0,6,264.0,Not available,3,,,No,,5,3
+France,28.0,4.0,1.7,100.0,,0.15,7,4 km,No,,4,0.05
+France,18.0,4.0,,225.0,,On,,,No,,25,0.8
+France,24.0,4.0,2,121.0,,6,,,,,10,0.3
+France,21.0,4.0,2.5,170.0,Not available,0.5,,On site,No,,,
+France,33.0,4.0,2.5,32.0,Not available,0.8,,,No,,2,1
+France,29.0,4.0,1.6,40.0,,On,,,No,,5,1.5
+France,20.0,4.0,1.85,67.0,,2,,,No,,2,
+France,28.0,4.0,,,,0.5,,,No,,,
+France,26.0,4.0,7,164.0,,12,,,,,,
+France,12.0,4.0,1.5,43.0,Not available,,,On site,No,80.0,15,0.6
+France,25.0,4.0,7,35.0,,,On,,No,,3,3
+France,20.0,4.0,3,50.0,,On,,,,,0.9,0.7
+France,16.0,4.0,,,,,,,,,,
+France,15.0,4.0,2,80.0,,,,On site,,,10,10
+France,22.0,4.0,9,180.0,Not available,20,,,,,5,
+France,18.0,4.0,4,210.0,,,,,,,,1
+France,44.0,4.0,2,112.0,Available,0.4,,,,,,0.4
+France,22.0,4.0,,,,,,,No,,5,1
+France,16.0,4.0,7,110.0,Available,15,On,On site,No,,8,1
+France,20.0,4.0,2.1,120.0,Not available,0.5,,,,,,0.5
+France,18.0,4.0,,,,,On,On site,Yes,,,On
+France,20.0,4.0,4,65.0,Not available,,20,,Yes,980.0,3,500
+France,20.0,4.0,2,43.0,Not available,,10,On site,Yes,850.0,10,10
+France,23.0,4.0,3,85.0,Available,,15,,Yes,,12,
+France,24.0,4.0,3,72.0,,,10,On site,Yes,1000.0,,2
+France,23.0,4.0,1.5,71.0,Available,0.1,,,,,3,1
+France,21.0,4.0,,85.0,,0.5,18,17 km,No,70.0,12,0.1
+France,16.0,4.0,,,,5,,1 km,No,,,On
+France,24.0,4.0,,,,0.1,,,No,,,0.1
+France,23.0,4.0,1.5,71.0,Available,0.1,,,,,3,1
+France,21.0,4.0,,85.0,,0.5,18,17 km,No,70.0,12,0.1
+France,16.0,4.0,,,,5,,1 km,No,,,On
+France,24.0,4.0,,,,0.1,,,No,,,0.1
+France,23.0,4.0,,,,,3.5,,Yes,,,
+France,20.0,4.0,,,Not available,,On,,No,,,
+France,17.0,4.0,,,Not available,,On,,No,,,On
+France,33.0,4.0,5,100.0,,,12,On site,Yes,,,
+France,16.0,4.0,2.5,80.0,Not available,,7,0.5 km,Yes,600.0,6,0.5
+France,21.0,4.0,,,,,On,,No,,,On
+France,13.0,4.0,,34.0,,,,,Yes,,25,0.5
+France,18.0,4.0,,,,,On,On site,Yes,,,On
+France,25.0,4.0,,,Not available,,,0.2 km,Yes,,,On
+France,21.0,4.0,1.3,59.0,Not available,,,1 km,Yes,1050.0,35,0.3
+France,14.0,4.0,2,60.0,,,,On site,Yes,,25,On
+France,13.0,4.0,,,,,20,On site,Yes,,,1
+France,31.0,4.0,2,110.0,,,On,,Yes,460.0,12,0.2
+France,23.0,4.0,,,,,0.8,,Yes,,,
+France,23.0,4.0,,,,,3.5,,Yes,,,
+France,20.0,4.0,,,Not available,,On,,No,,,
+France,17.0,4.0,,,Not available,,On,,No,,,On
+France,33.0,4.0,5,100.0,,,12,On site,Yes,,,
+France,16.0,4.0,2.5,80.0,Not available,,7,0.5 km,Yes,600.0,6,0.5
+France,21.0,4.0,,,,,On,,No,,,On
+France,13.0,4.0,,34.0,,,,,Yes,,25,0.5
+France,18.0,4.0,,,,,On,On site,Yes,,,On
+France,25.0,4.0,,,Not available,,,0.2 km,Yes,,,On
+France,21.0,4.0,1.3,59.0,Not available,,,1 km,Yes,1050.0,35,0.3
+France,14.0,4.0,2,60.0,,,,On site,Yes,,25,On
+France,20.0,4.0,,,,,,On site,No,,,On
+France,26.0,4.0,3,15.0,,,,On site,Yes,,38,15
+France,14.0,4.0,1.5,23.0,Available,,,,,,,
+Netherlands,18.0,4.0,2,80.0,Not available,,,,No,,0.7,0.7
+Netherlands,18.0,4.0,,25.0,,,,,,,,
+Netherlands,22.0,4.0,1,25.0,,1.5,8,5 km,No,,4,0.3
+Netherlands,35.0,4.0,22,370.0,,,,,No,,6,1
+Netherlands,15.0,4.0,2,52.0,Not available,,,,Yes,,4.5,1
+Netherlands,19.0,4.0,1,20.0,Not available,2,2,,No,,8,1
+Netherlands,24.0,4.0,5,49.0,,15,0.5,,No,1.0,10,2
+Netherlands,31.0,4.0,,425.0,,0.7,,,No,,,On
+Netherlands,20.0,4.0,,110.0,,10,,,No,,0.5,0.3
+Netherlands,26.0,4.0,6,182.0,,,2,,No,,30,1
+Netherlands,13.0,4.0,5.5,195.0,Not available,,,,No,,18,2
+Netherlands,20.0,4.0,,,,,On,On site,No,,10,0.5
+Netherlands,18.0,4.0,4,60.0,Not available,,,,No,,16,2
+Netherlands,18.0,4.0,3,38.0,,,On,,No,,20,1.5
+Netherlands,20.0,4.0,16,700.0,,,On,,,,9,0.7
+Netherlands,16.0,4.0,3,42.0,Not available,,,,,,,
+Netherlands,31.0,4.0,1,60.0,Not available,10,On,,No,,2,1
+Netherlands,19.0,4.0,4,105.0,,2,3,,No,,20,2
+Netherlands,15.0,4.0,1.5,20.0,,7,3,,No,,40,1.5
+Netherlands,28.0,4.0,55,,Not available,,On,,No,,10,3
+Netherlands,13.0,4.0,3.5,100.0,,,,8 km,No,,17,0.3
+Netherlands,21.0,4.0,3.5,89.0,Not available,,5,5 km,No,,10,1
+Netherlands,17.0,4.0,,,,,,,No,,,3
+Netherlands,22.0,4.0,,,,,,On site,No,,,On
+Netherlands,27.0,4.0,22,500.0,Not available,,,,No,,6,0.2
+Netherlands,15.0,4.0,,,,,,,No,,,On
+Netherlands,16.0,4.0,11.2,300.0,Available,,10,15 km,No,,5,3
+Netherlands,18.0,4.0,0.65,25.0,,,,,No,,10,0.5
+Netherlands,19.0,4.0,4,107.0,Not available,,,On site,No,,9,2.5
+Netherlands,16.0,4.0,4,50.0,,,4,,No,,45,3
+Netherlands,26.0,4.0,12,325.0,,,,,,,12,2.5
+Netherlands,13.0,4.0,3.5,100.0,,,,8 km,No,,17,0.3
+Netherlands,21.0,4.0,3.5,89.0,Not available,,5,5 km,No,,10,1
+Netherlands,17.0,4.0,,,,,,,No,,,3
+Netherlands,22.0,4.0,,,,,,On site,No,,,On
+Netherlands,27.0,4.0,22,500.0,Not available,,,,No,,6,0.2
+Netherlands,15.0,4.0,,,,,,,No,,,On
+Netherlands,16.0,4.0,11.2,300.0,Available,,10,15 km,No,,5,3
+Netherlands,18.0,4.0,0.65,25.0,,,,,No,,10,0.5
+Netherlands,19.0,4.0,4,107.0,Not available,,,On site,No,,9,2.5
+Netherlands,16.0,4.0,4,50.0,,,4,,No,,45,3
+Netherlands,21.0,4.0,6,200.0,,,,1.5 km,No,,20,0.3
+Netherlands,19.0,4.0,7,300.0,Not available,,On,,No,,18,1
+Netherlands,21.0,4.0,2.5,85.0,,,,5 km,No,71.0,12,0.5
+Portugal,27.0,4.0,5,50.0,,100,0.5,0.6 km,Yes,360.0,,
+Portugal,9.0,4.0,1,43.0,,,,0.05 km,No,,20,0.1
+Portugal,17.0,4.0,,,,,,,No,,,On
+Sweden,20.0,4.0,2,66.0,,,On,,,,,
+Netherlands,21.0,4.0,6,200.0,,,,1.5 km,No,,20,0.3
+Netherlands,19.0,4.0,7,300.0,Not available,,On,,No,,18,1
+Netherlands,21.0,4.0,2.5,85.0,,,,5 km,No,71.0,12,0.5
+Portugal,27.0,4.0,5,50.0,,100,0.5,0.6 km,Yes,360.0,,
+Portugal,9.0,4.0,1,43.0,,,,0.05 km,No,,20,0.1
+Portugal,17.0,4.0,,,,,,,No,,,On
+Sweden,20.0,4.0,2,66.0,,,On,,,,,
+Sweden,25.0,4.0,2,45.0,,,,,No,,69,On
+Sweden,26.0,4.0,,80.0,Not available,On,,,No,,38,
+Sweden,20.0,4.0,,15.0,,,On,8 km,Yes,,40,27
+Ireland,25.0,4.0,,20.0,,,,,No,,12,12
+Ireland,22.0,4.0,3,58.0,Not available,25,10,On site,No,110.0,10,3
+Ireland,23.0,4.0,2,50.0,,,,1 km,Yes,,11,11
+Ireland,14.0,4.0,,20.0,,35,4,3 km,Yes,,9,9
+Belgium,18.0,4.0,,,,,,,No,,,
+Belgium,16.0,4.0,,,,,,On site,No,,12,
+Belgium,23.0,4.0,8,160.0,Not available,,,On site,Yes,330.0,5,0.5
+Belgium,25.0,4.0,8,415.0,Available,,,On site,No,,16,2
+Belgium,18.0,4.0,12,,,,On,,,,5,5
+Belgium,18.0,4.0,,,,,,On site,,,,
+Norway,25.0,4.0,,,Not available,0.5,1,,,30.0,20,0.5
+Norway,24.0,4.0,2.5,50.0,Not available,,On,On site,No,,46,0.2
+Norway,18.0,4.0,3,100.0,,,On,,,,,
+Norway,25.0,4.0,,,Not available,0.5,1,,,30.0,20,0.5
+Norway,24.0,4.0,2.5,50.0,Not available,,On,On site,No,,46,0.2
+Norway,18.0,4.0,3,100.0,,,On,,,,,
+Poland,15.0,4.0,,200.0,,,,,,,,
+Slovenia,20.0,4.0,0.4,20.0,Not available,150,20,On site,No,242.0,5,0.2
+Hungary,20.0,4.0,0.5,25.0,Not available,,15,,Yes,,9,0.1
+Hungary,25.0,4.0,23,50.0,Available,,On,,No,100.0,3,2
+Turkey,9.0,4.0,16,60.0,,,,,No,,0.1,0.1
+Greece,25.0,4.0,,40.0,,0.3,,,No,,3.5,
+Greece,21.0,4.0,,,,On,On,On site,Yes,,1,On
+Latvia,24.0,4.0,,,,On,5,,No,,15,0.1
+Spain,29.0,4.0,20,1200.0,Not available,1,,On site,No,,0.5,1
+Spain,17.0,4.0,1,59.0,Not available,,,,,,,
+Spain,29.0,4.0,,,Not available,,2,On site,Yes,1220.0,90,3
+Spain,28.0,4.0,2,85.0,,,,0.2 km,Yes,,100,16
+Spain,29.0,4.0,20,1200.0,Not available,1,,On site,No,,0.5,1
+Spain,11.0,4.0,5,50.0,Available,,,,,,,
+Spain,26.0,4.0,,150.0,Available,,,On site,Yes,100.0,35,On
+Spain,29.0,4.0,12,233.0,,,,,,,,
+Spain,42.0,4.0,2,690.0,,0.7,,,,,30,0.2
+Switzerland,33.0,4.0,,70.0,,,,,,,,
+Switzerland,31.0,4.0,10,55.0,Not available,,14,On site,No,400.0,15,4.5
+Switzerland,18.0,4.0,,170.0,,,,,Yes,,25,2.3
+Spain,18.0,4.0,1,,,25,,,Yes,,11,1.5
+Spain,11.0,4.0,5,50.0,Available,,,,,,,
+Spain,26.0,4.0,,150.0,Available,,,On site,Yes,100.0,35,On
+Spain,29.0,4.0,12,233.0,,,,,,,,
+Spain,42.0,4.0,2,690.0,,0.7,,,,,30,0.2
+Switzerland,33.0,4.0,,70.0,,,,,,,,
+Switzerland,31.0,4.0,10,55.0,Not available,,14,On site,No,400.0,15,4.5
+Switzerland,18.0,4.0,,170.0,,,,,Yes,,25,2.3
+Iceland,21.0,4.0,1.5,200.0,,10,20,0.5 km,No,,10,On
+Iceland,13.0,4.0,1,,Available,0.5,1,0.5 km,,,On,0.5
+Iceland,25.0,4.0,3,,Available,0.5,3,1 km,No,,On,0.5
+Switzerland,36.0,4.0,0.3,35.0,Not available,,On,,Yes,685.0,6,
+Hungary,13.0,4.0,,30.0,,,,,,,2,1
+Great Britain,24.0,4.0,,,,8,,1 km,No,,,1.6
+France,12.0,4.0,2.5,30.0,,3,,,No,56.0,20,0.8
+France,16.0,4.0,7,132.0,,,,,,,,
+Italy,28.0,4.0,2,140.0,,,,,,,,
+Bulgaria,12.0,4.0,1,8.0,,44,8,,No,,15,0.3
+Switzerland,33.0,4.0,,150.0,Not available,,,On site,,,,
+Estonia,15.0,4.0,3,20.0,,On,,,No,,10,1.7
+Latvia,17.0,4.0,3.5,300.0,,,,On site,,,15,0.8
+France,24.0,4.0,"25,000",37.0,,On,,,,,,
+France,12.0,4.0,2.5,30.0,,3,,,No,56.0,20,0.8
+France,16.0,4.0,7,132.0,,,,,,,,
+Italy,28.0,4.0,2,140.0,,,,,,,,
+Bulgaria,12.0,4.0,1,8.0,,44,8,,No,,15,0.3
+Switzerland,33.0,4.0,,150.0,Not available,,,On site,,,,
+Netherlands,15.0,4.0,2,20.0,Not available,,2,,,,12,1
+France,17.0,4.0,2,25.0,,,,,,,,
+France,19.0,4.0,1.5,12.0,Not available,,12,,,400.0,37,6
+Italy,26.0,4.0,2,50.0,,45,15,,Yes,,32,0.4
+Netherlands,17.0,4.0,0.6,15.0,,,,,,,,
+Italy,50.0,4.0,6.5,74.0,Not available,0.7,,,,,,1.8
+Poland,8.0,4.0,32,10.0,,650,65,3 km,Yes,540.0,4,4
+Netherlands,18.0,4.0,0.4,20.0,,20,On,3 km,No,,3,2
+Italy,35.0,4.0,2.5,75.0,Not available,45,,1 km,Yes,600.0,25,On

@@ -1,0 +1,223 @@
+url='https://www.camping.info/en/search?adults=1&flex=2'
+
+def get_urls_in_page(url):
+    response = requests.get(url)
+    webpage = BeautifulSoup(response.content, "html.parser")
+    lst_details = webpage.find_all('a',attrs={'class':'button button--primary order-3 w-100'})
+    lst_details
+    lst=[]
+    for link in lst_details:
+        lst.append('https://www.camping.info'+link.get('href'))
+    return lst    
+
+    
+def get_attributes_for_dataframe(url):
+    time.sleep(6)
+    response = requests.get(url)
+    webpage = BeautifulSoup(response.content, "html.parser")
+    lst=[]
+    price1 = lst.append(webpage.find('div',attrs={'class':'h1 mb-0'}).text+'0')
+    country = lst.append(webpage.find('a',attrs={'class':'text-black'}).text)
+    rating = lst.append(webpage.find('span',attrs={'class':'circular-text text-black rating-radial__value mb-0 h4'}).text)
+    #size_of_site = lst.append(((webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[3]('span')[1].text.strip()).split(' ')[0]))
+    #total_number_of_pitches = lst.append(webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[4]('span')[1].text.strip().split(' ')[0])
+    #pitches_for_caravans = lst.append(webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[7]('span')[1].text.strip())
+    
+    for att in webpage.find_all('span', attrs={'class':'text-medium'}):   
+        if att.text == 'Size of the site':
+            lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+            
+        if att.text == 'Total number of pitches':
+            lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+        
+        if att.text == 'Stopover pitches in front of the gates also for caravans':
+            lst.append(att.find_next_sibling('span').text.strip())
+            continue
+        
+        if att.text == 'Sea':
+            sea_in_site = lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+    
+        if att.text == 'Lake':
+            lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+        
+        if att.text == 'River':
+            lst.append(att.find_next_sibling('span').text)
+            continue
+        
+            
+        if att.text == 'In the mountains':
+            lst.append(att.find_next_sibling('span').text)
+            continue
+         
+            
+        if att.text == 'Height (above sea level)':
+            lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+        
+            
+        if att.text == 'Next city':
+            lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+        
+            
+        if att.text == 'Train or bus station':
+            lst.append(att.find_next_sibling('span').text.strip().split(' ')[0])
+            continue
+            
+        
+            
+            
+            
+    flag_sea=True
+    flag_lake=True
+    flag_river=True
+    flag_mountain=True
+    flag_height = True
+    flag_city=True
+    flag_transport=True
+    flag_size=True
+    flag_total=True
+    flag_caravan = True
+    for att in webpage.find_all('span', attrs={'class':'text-medium'}):
+        if att.text =='Size of the site':
+            flag_size =False
+            continue
+            
+        if att.text == 'Total number of pitches':
+            flag_total=False
+            continue
+            
+        if att.text =='Stopover pitches in front of the gates also for caravans':
+            flag_caravan=False
+            continue
+        if att.text == 'Sea':
+            flag_sea=False
+            continue
+    
+        if att.text == 'Lake':
+            flag_lake=False
+            continue
+        
+        if att.text == 'River':
+            flag_river=False
+            continue
+            
+        if att.text == 'In the mountains':
+            flag_mountain=False
+            continue
+            
+        if att.text == 'Height (above sea level)':
+            flag_height=False
+            continue
+            
+        if att.text == 'Next city':
+            flag_city =False
+            continue
+            
+        if att.text == 'Train or bus station':
+            flag_transport=False
+            continue
+            
+    if flag_size:
+        lst.insert(3,None)
+        
+    if flag_total:
+        lst.insert(4,None)
+        
+    if flag_caravan:
+        lst.insert(5,None)
+        
+    if  flag_sea:
+        lst.insert(6,None)
+        
+    if  flag_lake:
+        lst.insert(7,None)
+        
+    if  flag_river:
+        lst.insert(8,None)
+        
+    if  flag_mountain:
+        lst.insert(9,None)
+        
+    if  flag_height:
+        lst.insert(10,None)
+        
+    if    flag_city:
+        lst.insert(11,None)
+        
+    if flag_transport:   
+        lst.insert(12,None)
+        
+            #if att.text != ('Sea' or'Lake' or 'River' or 'In the mountains' or 'Height (above sea level)' or 'Next city'):
+                #lst.append('0')
+            
+                
+    #river_in_site=webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[8]('span')[1].text.strip()
+    #site_on_mountains = webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[9]('span')[1].text.strip()
+    #Height_of_site = webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[10]('span')[1].text.strip().split(' ')[0]
+    #next_city_distance = webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[11]('span')[1].text.strip().split(' ')[0]
+    #transport_distance = webpage.find_all('li', attrs={'class':'p-0 pb-1 m-0'})[13]('span')[1].text.strip().split(' ')[0]
+    return lst
+    
+    #return price1, country, rating, size_of_site, total_number_of_pitches, pitches_for_caravans, sea_in_site, lake_in_site, river_in_site, site_on_mountains, Height_of_site, next_city_distance, transport_distance
+    
+-------------------------------------------------------------------------------------------------------------------
+url='https://www.camping.info/en/search?adults=1&flex=2'
+lst_price=[]
+lst_country=[]
+lst_rating=[]
+lst_size_of_site=[]
+lst_total_number_of_pitches=[]
+lst_pitches_for_caravans=[]
+lst_sea =[]
+lst_lake=[]
+lst_river_in_site=[]
+lst_site_on_mountains=[]
+lst_Height_of_site=[]
+lst_next_city_distance=[]
+lst_transport_distance=[]
+for link in get_urls_in_page(url):
+    temp_lst = get_attributes_for_dataframe(link)
+    lst_price.append(temp_lst[0])
+    lst_country.append(temp_lst[1])
+    lst_rating.append(temp_lst[2])
+    lst_size_of_site.append(temp_lst[3])
+    lst_total_number_of_pitches.append(temp_lst[4])
+    lst_pitches_for_caravans.append(temp_lst[5])
+    lst_sea.append(temp_lst[6])
+    lst_lake.append(temp_lst[7])
+    lst_river_in_site.append(temp_lst[8])
+    lst_site_on_mountains.append(temp_lst[9])
+    lst_Height_of_site.append(temp_lst[10])
+    lst_next_city_distance.append(temp_lst[11])
+    lst_transport_distance.append(temp_lst[12])
+    
+data = {'country':lst_country,'price':lst_price,'rating':lst_rating,'size_of_site':lst_size_of_site,'total_pitches':lst_total_number_of_pitches,
+       'caravns':lst_pitches_for_caravans,'sea':lst_sea,'lake':lst_lake,'river':lst_river_in_site,'mountain':lst_site_on_mountains,'Height':lst_Height_of_site,
+       'next_city':lst_next_city_distance,'transport':lst_transport_distance}
+df = pd.DataFrame(data)
+df
+------------------------------------------------------------------------------------------------------------------
+url='https://www.camping.info/en/search?adults=1&flex=2'
+lst_links1=[]
+counter =0
+while counter < 300:
+    time.sleep(1)
+    response = requests.get(url)
+    webpage = BeautifulSoup(response.content, "html.parser")
+    
+    if counter == 0:
+        url ='https://www.camping.info'+webpage.find_all('a',attrs={'class':'page-link'})[1].get('href')
+        
+    if (webpage.find_all('a',attrs={'class':'page-link'})[4]) is None:
+        continue
+        
+    if counter != 0:
+        url ='https://www.camping.info'+webpage.find_all('a',attrs={'class':'page-link'})[4].get('href')    
+    lst_links1.append(url)
+    counter +=1
+lst_links1   
